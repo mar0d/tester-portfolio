@@ -62,15 +62,15 @@ W repozytorium znajdują się:
 Portfolio pokazuje umiejętności w zakresie:
 
 - testowania manualnego
-- tworzenia scenariuszy i przypadków testowych
+- tworzenia przypadków testowych
 - raportowania błędów
 - analizy działania aplikacji
 - reprodukcji problemów
 - dokumentowania defektów
 
 ## Struktura repozytorium
-test-cases/
-bug-reports/
+- `test-cases/` – przypadki testowe (TestRail, Excel)  
+- `bug-reports/` – raporty błędów (Jira, PDF, nagrania wideo/screeny)  
 
 ## Planowany rozwój portfolio
 
