@@ -16,7 +16,7 @@ Celem portfolio jest prezentacja mojego podejścia do testowania aplikacji webow
 
 ## Testowana aplikacja
 
-Materiały zawarte w repozytorium zostały przygotowane na podstawie testów wykonanych dla aplikacji Automation Exercise.
+Materiały zawarte w repozytorium zostały przygotowane na podstawie testów wykonanych dla aplikacji [Automation Exercise](https://automationexercise.com).
 
 Zakres testów obejmował między innymi:
 
