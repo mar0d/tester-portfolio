@@ -1,79 +1,68 @@
-# Portfolio QA – Tester Oprogramowania | Marcin Dąbek
+# Portfolio Testera Oprogramowania
 
-Repozytorium zawiera przykłady mojej pracy związanej z testowaniem manualnym oprogramowania.
+## Marcin Dąbek
 
-Celem portfolio jest zaprezentowanie praktycznych umiejętności QA, takich jak:
-- tworzenie przypadków testowych,
-- raportowanie błędów,
-- dokumentowanie defektów,
-- analiza działania aplikacji.
+Przez 14 lat pracowałem jako PHP Developer, rozwijając i utrzymując aplikacje webowe. W codziennej pracy zajmowałem się analizą błędów, testowaniem własnych zmian, współpracą z testerami, analizą logów, integracjami REST API oraz pracą z bazami danych.
 
-## O mnie
+Obecnie rozwijam się w kierunku testowania oprogramowania. To repozytorium zawiera przykłady dokumentacji testerskiej przygotowanej podczas praktycznych ćwiczeń i nauki testowania.
 
-Jestem specjalistą IT z 14-letnim doświadczeniem w pracy z aplikacjami webowymi, REST API oraz bazami danych.  
-W trakcie pracy programistycznej zajmowałem się również weryfikacją wprowadzanych zmian, analizą błędów oraz testowaniem integracji systemów.
+---
 
-Obecnie rozwijam się w kierunku testowania oprogramowania (QA), wykorzystując doświadczenie techniczne do analizy problemów, testowania funkcjonalności oraz kontroli jakości systemów.
+## Cel portfolio
+
+Celem portfolio jest prezentacja mojego podejścia do testowania aplikacji webowych, przygotowywania dokumentacji testowej oraz raportowania znalezionych błędów.
+
+---
+
+## Testowana aplikacja
+
+Materiały zawarte w repozytorium zostały przygotowane na podstawie testów wykonanych dla aplikacji Automation Exercise.
+
+Zakres testów obejmował między innymi:
+
+* rejestrację użytkownika,
+* logowanie i wylogowanie,
+* formularze kontaktowe,
+* przeglądanie produktów,
+* koszyk zakupowy,
+* komentarze i opinie użytkowników,
+* walidację danych wejściowych.
+
+---
 
 ## Wykorzystane narzędzia
 
-W portfolio wykorzystano następujące narzędzia:
+* Jira
+* TestRail
+* Microsoft Excel
+* GitHub
+* Chrome DevTools
 
-- **TestRail** – zarządzanie przypadkami testowymi
-- **Jira** – zgłaszanie i śledzenie błędów
-- **Microsoft Excel** – dokumentacja testów
-- **GitHub** – repozytorium portfolio
+---
 
 ## Zawartość repozytorium
 
-### Przypadki testowe (Test Cases)
+### Test Cases
 
-Przykłady przypadków testowych przygotowanych dla aplikacji webowej.
+Przykłady przypadków testowych przygotowanych dla wybranych funkcjonalności aplikacji.
 
-Materiały zawierają:
-- zrzuty ekranu z systemu TestRail
-- przypadki testowe zapisane w arkuszu Excel
+### Bug Reports
 
-Przypadki testowe obejmują między innymi:
+Przykłady zgłoszeń błędów zawierających:
 
-- testy funkcjonalne
-- scenariusze pozytywne i negatywne
-- weryfikację poprawności działania funkcjonalności
+* opis problemu,
+* kroki reprodukcji,
+* oczekiwany rezultat,
+* rzeczywisty rezultat,
+* materiały pomocnicze w postaci zrzutów ekranu oraz nagrań.
 
-### Zgłoszenia błędów (Bug Reports)
+---
 
-Przykłady zgłoszeń błędów przygotowanych w systemie Jira.
+## Co prezentuje to portfolio
 
-Każde zgłoszenie zawiera:
+Repozytorium zawiera przykłady:
 
-- opis błędu
-- kroki reprodukcji
-- oczekiwany rezultat
-- rzeczywisty rezultat
-- zrzuty ekranu/nagrania wideo prezentujące reprodukcję błędów
-
-W repozytorium znajdują się:
-
-- screenshoty zgłoszeń z Jira
-- eksporty zgłoszeń w formacie PDF
-
-## Prezentowane umiejętności
-
-Portfolio pokazuje umiejętności w zakresie:
-
-- testowania manualnego
-- tworzenia przypadków testowych
-- raportowania błędów
-- analizy działania aplikacji
-- reprodukcji problemów
-- dokumentowania defektów
-
-## Struktura repozytorium
-- `test-cases/` – przypadki testowe (TestRail, Excel)  
-- `bug-reports/` – raporty błędów (Jira, PDF, nagrania wideo/screeny)  
-
-## Planowany rozwój portfolio
-
-W przyszłości planuję rozszerzyć portfolio o:
-
-- przykłady testów API (Postman)
+* przypadków testowych,
+* zgłoszeń błędów,
+* dokumentacji testowej,
+* materiałów potwierdzających reprodukcję błędów.
