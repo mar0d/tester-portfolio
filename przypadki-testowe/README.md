@@ -1,4 +1,4 @@
-# Test Cases
+# Przypadki testowe
 
 Przykłady przypadków testowych przygotowanych dla aplikacji [Automation Exercise](https://automationexercise.com/).
 
