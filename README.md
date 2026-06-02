@@ -42,11 +42,11 @@ Zakres testów obejmował między innymi:
 
 ## Zawartość repozytorium
 
-### Test Cases
+### Przypadki testowe
 
 Przykłady przypadków testowych przygotowanych dla wybranych funkcjonalności aplikacji.
 
-### Bug Reports
+### Zgłoszenia błędów
 
 Przykłady zgłoszeń błędów zawierających:
 
