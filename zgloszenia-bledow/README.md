@@ -1,4 +1,4 @@
-# Bug Reports
+# Zgłoszenia błędów
 
 Przykłady zgłoszeń błędów przygotowanych podczas testowania aplikacji webowej **Automation Exercise**.
 
