@@ -8,20 +8,12 @@ Obecnie rozwijam się w kierunku testowania oprogramowania. To repozytorium zawi
 
 ---
 
-## Cel portfolio
-
-Celem portfolio jest prezentacja mojego podejścia do testowania aplikacji webowych, przygotowywania dokumentacji testowej oraz raportowania znalezionych błędów.
-
----
-
 ## Testowana aplikacja
 
 Materiały zawarte w repozytorium zostały przygotowane na podstawie testów wykonanych dla aplikacji [Automation Exercise](https://automationexercise.com).
 
 Zakres testów obejmował między innymi:
 
-* rejestrację użytkownika,
-* logowanie i wylogowanie,
 * formularze kontaktowe,
 * przeglądanie produktów,
 * koszyk zakupowy,
@@ -35,8 +27,6 @@ Zakres testów obejmował między innymi:
 * Jira
 * TestRail
 * Microsoft Excel
-* GitHub
-* Chrome DevTools
 
 ---
 
@@ -55,14 +45,3 @@ Przykłady zgłoszeń błędów zawierających:
 * oczekiwany rezultat,
 * rzeczywisty rezultat,
 * materiały pomocnicze w postaci zrzutów ekranu oraz nagrań.
-
----
-
-## Co prezentuje to portfolio
-
-Repozytorium zawiera przykłady:
-
-* przypadków testowych,
-* zgłoszeń błędów,
-* dokumentacji testowej,
-* materiałów potwierdzających reprodukcję błędów.
